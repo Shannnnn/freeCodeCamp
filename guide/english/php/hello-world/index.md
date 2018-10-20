@@ -41,3 +41,4 @@ echo "My first PHP script!";
 </body>
 </html>
 ```
+The default file extension for PHP files is ".php".
